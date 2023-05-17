@@ -1,0 +1,32 @@
+.navbar{
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.title-style{
+    color: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.card{
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+footer{
+    color: white;
+    padding: 10px;
+    margin: 10px;;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.signInLink{
+    color: white;
+}
+
+.coverImage{
+    /* height: 100px; */
+    /* max-height: 50px; */
+}
